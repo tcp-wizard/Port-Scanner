@@ -1,6 +1,3 @@
-/*
- * Developed by TCP Wizard
- */
 import socket
 import threading
 import concurrent.futures
